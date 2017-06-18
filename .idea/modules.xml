@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeCrack/CodeCrack.iml" filepath="$PROJECT_DIR$/CodeCrack/CodeCrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainTest/MainTest.iml" filepath="$PROJECT_DIR$/MainTest/MainTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJava.iml" filepath="$PROJECT_DIR$/TestJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+    </modules>
+  </component>
+</project>
